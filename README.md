@@ -9,10 +9,24 @@
 <a href="/https://feeds.feedburner.com/mataberita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feeds.feedburner.com/mataberita" height="30" width="40" /></a>
 </p>
 
+# [Preview Site](https://github.com/Galangxyz/contoh.github.io) 
+
+# [Demo Code](https://github.com/Galangxyz/contoh.github.io)
+
 # Refrensi Youtube
 <!-- BEGIN YOUTUBE-CARDS -->
 [![GitHub Star Swag Unboxing and Giveaways](https://ytcards.demolab.com/?id=Lm6D7o0PdXE&title=How+to+make+your+Github+website+appear+on+Google+search&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to make your Github website appear on Google search")](https://www.youtube.com/watch?v=Lm6D7o0PdXE)
 <!-- END YOUTUBE-CARDS -->
+
+# Result
+> [!Sebelum]
+> [Page Google Search.]
+![IMG_20241110_052242](https://github.com/user-attachments/assets/b2e54821-221a-4303-b560-ef77020a3fcb)
+> [!Sesudah]
+> [Page Google Search.](https://search.yahoo.com/search;_ylt=Awrg0LQE3i9nhk4X62Jx.9w4;_ylc=X0kDOE5oQzBqRXdMakpZeUVpeVp5ekRhZ1Z0TVRRd0xnQUFBQUFsY2xabgRfUwM5NTQwMDYzODUEX3IDMgRhY3RuA2tleWJvYXJkBGNzcmNwdmlkAzhOaEMwakV3TGpKWXlFaXlaeXpEYWdWdE1UUXdMZ0FBQUFBbGNsWm4EZnIDc2ZwBGZyMgNzYi10b3AEZ3ByaWQDS1k3cHFyUThTdnllSVM4TnlJUVR2QQRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4Dc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDNDUEcXVlcnkDaHR0cHMlM0ElMkYlMkZnYWxhbmd4eXouZ2l0aHViLmlvJTJGY29udG9oLmdpdGh1Yi5pbyUyRgRzZWMDc2VhcmNoBHNsawNidXR0b24EdDIDc2VhcmNoBHQ0A2tleWJvYXJkBHRfc3RtcAMxNzMxMTkwNDk3BHZ0ZXN0aWQD?pvid=8NhC0jEwLjJYyEiyZyzDagVtMTQwLgAAAAAlclZn&ei=UTF-8&gprid=&fr=sfp&fr2=sb-top&q=https%3A%2F%2Fgalangxyz.github.io%2Fcontoh.github.io%2F&guccounter=2)
+![IMG_20241110_052304](https://github.com/user-attachments/assets/f301819a-7da0-40c4-acd6-a5e6ecc5efdd)
+
+
 # Cara Menghubungkan GitHub Pages ke Google Search Console
 
 Langkah-langkah ini membantu kamu untuk menambahkan website GitHub Pages ke Google Search Console, sehingga Google dapat mengindeks dan menampilkan situs kamu di hasil pencarian.
