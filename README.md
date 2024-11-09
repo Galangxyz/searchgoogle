@@ -19,10 +19,14 @@
 <!-- END YOUTUBE-CARDS -->
 
 # Result
-> [!Sebelum]
-> [Page Google Search.]
+> [!Note] 
+> Page Google Search.
 ![IMG_20241110_052242](https://github.com/user-attachments/assets/b2e54821-221a-4303-b560-ef77020a3fcb)
-> [!Sesudah]
+
+
+
+
+> [!Note]
 > [Page Google Search.](https://search.yahoo.com/search;_ylt=Awrg0LQE3i9nhk4X62Jx.9w4;_ylc=X0kDOE5oQzBqRXdMakpZeUVpeVp5ekRhZ1Z0TVRRd0xnQUFBQUFsY2xabgRfUwM5NTQwMDYzODUEX3IDMgRhY3RuA2tleWJvYXJkBGNzcmNwdmlkAzhOaEMwakV3TGpKWXlFaXlaeXpEYWdWdE1UUXdMZ0FBQUFBbGNsWm4EZnIDc2ZwBGZyMgNzYi10b3AEZ3ByaWQDS1k3cHFyUThTdnllSVM4TnlJUVR2QQRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4Dc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDNDUEcXVlcnkDaHR0cHMlM0ElMkYlMkZnYWxhbmd4eXouZ2l0aHViLmlvJTJGY29udG9oLmdpdGh1Yi5pbyUyRgRzZWMDc2VhcmNoBHNsawNidXR0b24EdDIDc2VhcmNoBHQ0A2tleWJvYXJkBHRfc3RtcAMxNzMxMTkwNDk3BHZ0ZXN0aWQD?pvid=8NhC0jEwLjJYyEiyZyzDagVtMTQwLgAAAAAlclZn&ei=UTF-8&gprid=&fr=sfp&fr2=sb-top&q=https%3A%2F%2Fgalangxyz.github.io%2Fcontoh.github.io%2F&guccounter=2)
 ![IMG_20241110_052304](https://github.com/user-attachments/assets/f301819a-7da0-40c4-acd6-a5e6ecc5efdd)
 
