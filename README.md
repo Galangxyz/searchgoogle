@@ -31,6 +31,8 @@
 ![IMG_20241110_052304](https://github.com/user-attachments/assets/f301819a-7da0-40c4-acd6-a5e6ecc5efdd)
 
 
+![IMG_20241110_141549](https://github.com/user-attachments/assets/7a63809f-dc6d-4c5b-9760-7415fbcfa612)
+
 # Cara Menghubungkan GitHub Pages ke Google Search Console
 
 Langkah-langkah ini membantu kamu untuk menambahkan website GitHub Pages ke Google Search Console, sehingga Google dapat mengindeks dan menampilkan situs kamu di hasil pencarian.
